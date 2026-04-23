@@ -15,12 +15,18 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 [application]
 
 config/name="Uncharted"
+run/main_scene="uid://ds4gduf8660uj"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
 
 [autoload]
 
 MPF="*uid://c05iybd1a77mc"
+
+[display]
+
+window/size/viewport_width=1366
+window/size/viewport_height=768
 
 [editor_plugins]
 
