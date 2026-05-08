@@ -1,0 +1,108 @@
+2026-05-08 14:53:00,399 : INFO : root : Loading config.
+2026-05-08 14:53:00,599 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mpf\AppData\Local\Temp\config_spec.mpf_cache
+2026-05-08 14:53:00,599 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-05-08 14:53:00,600 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-08 14:53:00,619 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\mpf\Documents\uncharted\config\config_ball_devices.yaml
+2026-05-08 14:53:00,619 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-05-08 14:53:00,672 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml
+2026-05-08 14:53:00,673 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\Documents\uncharted\config\config.yaml.
+2026-05-08 14:53:00,675 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\config\config.yaml
+2026-05-08 14:53:00,681 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\config\config_ball_devices.yaml
+2026-05-08 14:53:00,684 : INFO : ConfigProcessor : Config file cache created: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-08 14:53:00,786 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-08 14:53:00,787 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\0746e2282ef9b1e4e5844623fe2bc520.mpf_cache
+2026-05-08 14:53:00,806 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-08 14:53:00,806 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\cb652f59a759b952424ba440fdb694e1.mpf_cache
+2026-05-08 14:53:00,822 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-05-08 14:53:00,822 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-05-08-14-53-00-mpf-WIN-M1RLBQ5FIPJ.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-08-14-53-00-mpf-WIN-M1RLBQ5FIPJ.log'}
+2026-05-08 14:53:00,822 : INFO : Machine : MPF path: C:\Users\mpf\environment\Lib\site-packages\mpf
+2026-05-08 14:53:00,822 : INFO : Machine : Machine path: C:\Users\mpf\Documents\uncharted
+2026-05-08 14:53:00,822 : INFO : Machine : Platform: win32
+2026-05-08 14:53:00,822 : INFO : Machine : Python executable location: C:\Users\mpf\environment\Scripts\python.exe
+2026-05-08 14:53:00,822 : INFO : Machine : Python version: 3.14.4 (64-bit)
+2026-05-08 14:53:00,824 : INFO : Machine : Initializing MPF...
+2026-05-08 14:53:00,916 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-05-08 14:53:00,936 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-05-08 14:53:00,936 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-05-08 14:53:00,936 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-05-08 14:53:00,937 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.4', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,067 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-08-14-53-00-mpf-WIN-M1RLBQ5FIPJ.log', 'prev_value': None, 'change': True}
+2026-05-08 14:53:01,068 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-05-08 14:53:01,080 : ERROR : ConfigValidator : Your config contains a value for the setting "ball_devices:bd_plunger:ball_switchs", but this is not a valid setting name.
+2026-05-08 14:53:01,080 : ERROR : asyncio : Exception in callback EventManager._async_handler_done()() at C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py:124
+handle: <Handle EventManager._async_handler_done()() at C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py:124>
+Traceback (most recent call last):
+  File "C:\Users\mpf\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device_manager.py", line 88, in _load_device_modules
+    self.load_devices_config(validate=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device_manager.py", line 146, in load_devices_config
+    config[device_name] = collection[device_name].validate_and_parse_config(config[device_name], False)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self.config_section, config, self.name, "device", prefix=debug_prefix)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                 validation_failure_info=validation_failure_info)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+                          'setting "' + path_string + '", but this is not a valid '
+                                                      'setting name.', 2, self.log.name)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Your config contains a value for the setting "ball_devices:bd_plunger:ball_switchs", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/latest/logs)
+2026-05-08 14:53:01,084 : INFO : Machine : Starting the main run loop with active modes: []
+2026-05-08 14:53:01,085 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2026-05-08 14:53:01,085 : INFO : Machine : Shutting down...
+2026-05-08 14:53:01,085 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-05-08 14:53:02,092 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\machine.py", line 810, in _run_loop
+    raise self._exception['exception']
+  File "C:\Users\mpf\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device_manager.py", line 88, in _load_device_modules
+    self.load_devices_config(validate=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device_manager.py", line 146, in load_devices_config
+    config[device_name] = collection[device_name].validate_and_parse_config(config[device_name], False)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self.config_section, config, self.name, "device", prefix=debug_prefix)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                 validation_failure_info=validation_failure_info)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+                          'setting "' + path_string + '", but this is not a valid '
+                                                      'setting name.', 2, self.log.name)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Your config contains a value for the setting "ball_devices:bd_plunger:ball_switchs", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/latest/logs)
+2026-05-08 14:53:02,098 : INFO : root : MPF run loop ended.

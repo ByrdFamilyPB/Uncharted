@@ -1,0 +1,6 @@
+2026-05-08 13:49:57,021 : INFO : root : Loading config.
+2026-05-08 13:49:57,220 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mpf\AppData\Local\Temp\config_spec.mpf_cache
+2026-05-08 13:49:57,220 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-05-08 13:49:57,221 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-05-08 13:49:57,268 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml
+2026-05-08 13:49:57,268 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\Documents\uncharted\config\config.yaml.

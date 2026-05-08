@@ -1,0 +1,166 @@
+2026-05-08 14:54:39,386 : INFO : root : Loading config.
+2026-05-08 14:54:39,589 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mpf\AppData\Local\Temp\config_spec.mpf_cache
+2026-05-08 14:54:39,589 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-05-08 14:54:39,590 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-08 14:54:39,607 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\mpf\Documents\uncharted\config\config_ball_devices.yaml
+2026-05-08 14:54:39,608 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-05-08 14:54:39,652 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\environment\Lib\site-packages\mpf\mpfconfig.yaml
+2026-05-08 14:54:39,652 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\Documents\uncharted\config\config.yaml.
+2026-05-08 14:54:39,654 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\config\config.yaml
+2026-05-08 14:54:39,663 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\config\config_ball_devices.yaml
+2026-05-08 14:54:39,664 : INFO : ConfigProcessor : Config file cache created: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-08 14:54:39,756 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-08 14:54:39,757 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\0746e2282ef9b1e4e5844623fe2bc520.mpf_cache
+2026-05-08 14:54:39,758 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-08 14:54:39,759 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\cb652f59a759b952424ba440fdb694e1.mpf_cache
+2026-05-08 14:54:39,760 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-05-08 14:54:39,760 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-05-08-14-54-39-mpf-WIN-M1RLBQ5FIPJ.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-08-14-54-39-mpf-WIN-M1RLBQ5FIPJ.log'}
+2026-05-08 14:54:39,760 : INFO : Machine : MPF path: C:\Users\mpf\environment\Lib\site-packages\mpf
+2026-05-08 14:54:39,760 : INFO : Machine : Machine path: C:\Users\mpf\Documents\uncharted
+2026-05-08 14:54:39,760 : INFO : Machine : Platform: win32
+2026-05-08 14:54:39,760 : INFO : Machine : Python executable location: C:\Users\mpf\environment\Scripts\python.exe
+2026-05-08 14:54:39,760 : INFO : Machine : Python version: 3.14.4 (64-bit)
+2026-05-08 14:54:39,763 : INFO : Machine : Initializing MPF...
+2026-05-08 14:54:39,862 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-05-08 14:54:39,884 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-05-08 14:54:39,884 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-05-08 14:54:39,884 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-05-08 14:54:39,884 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.4', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-08-14-54-39-mpf-WIN-M1RLBQ5FIPJ.log', 'prev_value': None, 'change': True}
+2026-05-08 14:54:40,023 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-05-08 14:54:40,048 : ERROR : asyncio : Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<SystemWideDevice.device_added_system_wide() done, defined at C:\Users\mpf\environment\Lib\site-packages\mpf\core\system_wide_device.py:15> exception=ConfigFileError('Config validation error: Entry ball_device_ejector_pulse:ball_device_ejector_pulse:eject_coil = "c_trough_eject" is not valid. Device "c_trough_eject" not found in "coils:" section in your config.')>
+Traceback (most recent call last):
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\system_wide_device.py", line 17, in device_added_system_wide
+    await self._initialize()
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\ball_device.py", line 90, in _initialize
+    self._configure_targets()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\ball_device.py", line 386, in _configure_targets
+    self.ejector = ejector_class(ejector_config, self, self.machine)
+                   ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\pulse_coil_ejector.py", line 26, in __init__
+    self.config = self.machine.config_validator.validate_config("ball_device_ejector_pulse", self.config)
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                 validation_failure_info=validation_failure_info)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 204, in _validate_config
+    processed_config[k] = self.validate_config_item(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        this_spec[k], item=source[k],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        validation_failure_info=ValidationPath(validation_failure_info, k))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 243, in validate_config_item
+    return self.validate_item(item, validation, validation_failure_info)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 699, in validate_item
+    return self.validator_list[validator](item, validation_failure_info=validation_failure_info, param=param)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 413, in _validate_type_machine
+    raise self.validation_error(item, validation_failure_info,
+                                'Device "{}" not found in "{}:" section in your config.'.format(item, param),
+                                6)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Config validation error: Entry ball_device_ejector_pulse:ball_device_ejector_pulse:eject_coil = "c_trough_eject" is not valid. Device "c_trough_eject" not found in "coils:" section in your config. Error Code: CFE-ConfigValidator-6 (https://missionpinball.org/latest/logs)
+2026-05-08 14:54:40,098 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-05-08 14:54:40,098 : INFO : Machine : Starting the main run loop with active modes: []
+2026-05-08 14:54:40,098 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2026-05-08 14:54:40,098 : INFO : Machine : Shutting down...
+2026-05-08 14:54:40,098 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-05-08 14:54:40,099 : ERROR : ConfigValidator : Your config contains a value for the setting "sound_player:m", but this is not a valid setting name.
+2026-05-08 14:54:40,099 : ERROR : asyncio : Exception in callback EventManager._queue_task_done()
+handle: <Handle EventManager._queue_task_done()>
+Traceback (most recent call last):
+  File "C:\Users\mpf\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py", line 795, in _queue_task_done
+    future.result()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\events.py", line 708, in _run_handlers_sequential
+    handler.callback(queue=queue, **merged_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\mode_controller.py", line 97, in initialize_modes
+    item.method(config=mode.config[item.config_section],
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                mode_path=mode.path,
+                ^^^^^^^^^^^^^^^^^^^^
+                mode=mode,
+                ^^^^^^^^^^
+                root_config_dict=mode.config,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                **item.kwargs)
+                ^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_player.py", line 150, in process_mode_config
+    config = self.validate_config(config)
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_player.py", line 113, in validate_config
+    validated_config[event] = self.validate_config_entry(settings, event)
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\config_players\device_config_player.py", line 56, in validate_config_entry
+    raise e
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\config_players\device_config_player.py", line 52, in validate_config_entry
+    self._validate_config_item(device, device_settings))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\config_players\sound_player.py", line 24, in _validate_config_item
+    device_settings = self.machine.config_validator.validate_config(
+        'sound_player', device_settings)
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                 validation_failure_info=validation_failure_info)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+                          'setting "' + path_string + '", but this is not a valid '
+                                                      'setting name.', 2, self.log.name)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Failed to load config player mode_attract_started:sounds with settings {'sopranos_theme': None, 'bus': 'music'} >> Your config contains a value for the setting "sound_player:m", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/latest/logs)
+2026-05-08 14:54:41,107 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\machine.py", line 810, in _run_loop
+    raise self._exception['exception']
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\system_wide_device.py", line 17, in device_added_system_wide
+    await self._initialize()
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\ball_device.py", line 90, in _initialize
+    self._configure_targets()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\ball_device.py", line 386, in _configure_targets
+    self.ejector = ejector_class(ejector_config, self, self.machine)
+                   ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\devices\ball_device\pulse_coil_ejector.py", line 26, in __init__
+    self.config = self.machine.config_validator.validate_config("ball_device_ejector_pulse", self.config)
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                 validation_failure_info=validation_failure_info)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 204, in _validate_config
+    processed_config[k] = self.validate_config_item(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        this_spec[k], item=source[k],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        validation_failure_info=ValidationPath(validation_failure_info, k))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 243, in validate_config_item
+    return self.validate_item(item, validation, validation_failure_info)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 699, in validate_item
+    return self.validator_list[validator](item, validation_failure_info=validation_failure_info, param=param)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mpf\environment\Lib\site-packages\mpf\core\config_validator.py", line 413, in _validate_type_machine
+    raise self.validation_error(item, validation_failure_info,
+                                'Device "{}" not found in "{}:" section in your config.'.format(item, param),
+                                6)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Config validation error: Entry ball_device_ejector_pulse:ball_device_ejector_pulse:eject_coil = "c_trough_eject" is not valid. Device "c_trough_eject" not found in "coils:" section in your config. Error Code: CFE-ConfigValidator-6 (https://missionpinball.org/latest/logs)
+2026-05-08 14:54:41,110 : INFO : root : MPF run loop ended.
