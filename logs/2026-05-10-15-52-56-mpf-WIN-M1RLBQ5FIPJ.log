@@ -1,0 +1,104 @@
+2026-05-10 15:52:56,752 : INFO : root : Loading config.
+2026-05-10 15:52:56,963 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mpf\AppData\Local\Temp\config_spec.mpf_cache
+2026-05-10 15:52:56,964 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-05-10 15:52:56,965 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-10 15:52:57,076 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml
+2026-05-10 15:52:57,076 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\environment\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-05-10 15:52:57,078 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\environment\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-05-10 15:52:57,079 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml.
+2026-05-10 15:52:57,094 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml
+2026-05-10 15:52:57,095 : INFO : ConfigProcessor : Config file cache created: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-10 15:52:57,096 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\0746e2282ef9b1e4e5844623fe2bc520.mpf_cache
+2026-05-10 15:52:57,097 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-10 15:52:57,114 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\cb652f59a759b952424ba440fdb694e1.mpf_cache
+2026-05-10 15:52:57,115 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-05-10 15:52:57,115 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-05-10-15-52-56-mpf-WIN-M1RLBQ5FIPJ.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-10-15-52-56-mpf-WIN-M1RLBQ5FIPJ.log'}
+2026-05-10 15:52:57,116 : INFO : Machine : MPF path: C:\Users\mpf\environment\Lib\site-packages\mpf
+2026-05-10 15:52:57,116 : INFO : Machine : Machine path: C:\Users\mpf\Documents\uncharted
+2026-05-10 15:52:57,116 : INFO : Machine : Platform: win32
+2026-05-10 15:52:57,116 : INFO : Machine : Python executable location: C:\Users\mpf\environment\Scripts\python.exe
+2026-05-10 15:52:57,116 : INFO : Machine : Python version: 3.14.4 (64-bit)
+2026-05-10 15:52:57,119 : INFO : Machine : Initializing MPF...
+2026-05-10 15:52:57,229 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,254 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,254 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,254 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,254 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.4', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-10-15-52-56-mpf-WIN-M1RLBQ5FIPJ.log', 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,402 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-05-10 15:52:57,422 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-05-10 15:52:57,423 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-05-10 15:52:57,425 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-05-10 15:52:57,433 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2026-05-10 15:52:57,434 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2026-05-10 15:52:57,434 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2026-05-10 15:52:57,435 : INFO : ball_device.bd_plunger : State: idle
+2026-05-10 15:52:57,435 : INFO : ball_device.bd_trough : BCH: Initial count: 0
+2026-05-10 15:52:57,435 : INFO : ball_device.bd_trough : State: idle
+2026-05-10 15:52:57,445 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-05-10 15:52:57,446 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-05-10 15:52:57,447 : INFO : BallController : Initial balls found: 0
+2026-05-10 15:52:57,447 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_4'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,447 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_6'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_right'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_5'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-05-10 15:52:57,448 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-05-10 15:52:57,449 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-05-10 15:52:57,449 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-05-10 15:52:57,460 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-05-10 15:52:57,460 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-05-10 15:52:57,460 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-05-10 15:52:57,460 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-05-10 15:52:57,460 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:52:57,461 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:52:57,461 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:52:57,461 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-05-10 15:52:57,461 : INFO : Mode.attract : Started. Priority: 10
+2026-05-10 15:52:57,461 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-05-10 15:52:57,461 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-05-10 15:52:57,462 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-05-10 15:52:57,462 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': None, 'item': 'title'}
+2026-05-10 15:52:57,463 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-05-10 15:52:57,488 : INFO : EventManager : Event: ======'slide_attract_created'====== Args={'_from_bcp': True}
+2026-05-10 15:52:57,488 : INFO : EventManager : Event: ======'slide__removed'====== Args={'_from_bcp': True}
+2026-05-10 15:52:57,489 : INFO : EventManager : Event: ======'slide_attract_active'====== Args={'original_context': 'attract', 'original_calling_context': 'mode_attract_started', 'priority': 10.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-05-10 15:53:02,470 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 1, 'ticks_remaining': 11110}
+2026-05-10 15:53:07,476 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 2, 'ticks_remaining': 11109}
+2026-05-10 15:53:12,476 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 3, 'ticks_remaining': 11108}
+2026-05-10 15:53:17,462 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 4, 'ticks_remaining': 11107}
+2026-05-10 15:53:17,509 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:53:17,509 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:53:17,509 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:53:17,509 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:53:17,608 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:53:22,521 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 1, 'ticks_remaining': 11110}
+2026-05-10 15:53:27,510 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 2, 'ticks_remaining': 11109}
+2026-05-10 15:53:29,340 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:53:29,340 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:53:29,341 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'title'}
+2026-05-10 15:53:29,341 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:53:32,354 : INFO : EventManager : Event: ======'flipper_cradle'====== Args={}
+2026-05-10 15:53:32,354 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:53:32,355 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:53:33,540 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:53:33,541 : INFO : EventManager : Event: ======'flipper_cradle_release'====== Args={}
+2026-05-10 15:53:33,541 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:53:33,541 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:53:33,541 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 11111}
+2026-05-10 15:53:38,553 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 1, 'ticks_remaining': 11110}
+2026-05-10 15:53:41,748 : INFO : Machine : Shutting down...
+2026-05-10 15:53:41,750 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-05-10 15:53:41,761 : INFO : root : MPF run loop ended.

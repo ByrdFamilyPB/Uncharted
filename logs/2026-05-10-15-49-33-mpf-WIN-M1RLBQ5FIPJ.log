@@ -1,0 +1,397 @@
+2026-05-10 15:49:33,807 : INFO : root : Loading config.
+2026-05-10 15:49:34,145 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mpf\AppData\Local\Temp\config_spec.mpf_cache
+2026-05-10 15:49:34,146 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-05-10 15:49:34,146 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\b7f6280c8c0480f065ae96daad172605.mpf_cache
+2026-05-10 15:49:34,336 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml
+2026-05-10 15:49:34,337 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\environment\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-05-10 15:49:34,339 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\environment\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-05-10 15:49:34,339 : INFO : ConfigProcessor : Loading config from file C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml.
+2026-05-10 15:49:34,391 : INFO : ConfigProcessor : Loading config: C:\Users\mpf\Documents\uncharted\modes\attract\config\attract.yaml
+2026-05-10 15:49:34,392 : INFO : ConfigProcessor : Config file cache created: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-10 15:49:34,392 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\0746e2282ef9b1e4e5844623fe2bc520.mpf_cache
+2026-05-10 15:49:34,393 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\15c508faab3502003f440bdabb91e668.mpf_cache
+2026-05-10 15:49:34,412 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mpf\AppData\Local\Temp\cb652f59a759b952424ba440fdb694e1.mpf_cache
+2026-05-10 15:49:34,412 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-05-10 15:49:34,413 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-05-10-15-49-33-mpf-WIN-M1RLBQ5FIPJ.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-10-15-49-33-mpf-WIN-M1RLBQ5FIPJ.log'}
+2026-05-10 15:49:34,413 : INFO : Machine : MPF path: C:\Users\mpf\environment\Lib\site-packages\mpf
+2026-05-10 15:49:34,413 : INFO : Machine : Machine path: C:\Users\mpf\Documents\uncharted
+2026-05-10 15:49:34,413 : INFO : Machine : Platform: win32
+2026-05-10 15:49:34,413 : INFO : Machine : Python executable location: C:\Users\mpf\environment\Scripts\python.exe
+2026-05-10 15:49:34,413 : INFO : Machine : Python version: 3.14.4 (64-bit)
+2026-05-10 15:49:34,415 : INFO : Machine : Initializing MPF...
+2026-05-10 15:49:34,859 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-05-10 15:49:34,996 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-05-10 15:49:34,997 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-05-10 15:49:34,997 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-05-10 15:49:34,997 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.4', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\mpf\\Documents\\uncharted\\logs\\2026-05-10-15-49-33-mpf-WIN-M1RLBQ5FIPJ.log', 'prev_value': None, 'change': True}
+2026-05-10 15:49:35,076 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-05-10 15:49:35,097 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-05-10 15:49:35,099 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-05-10 15:49:35,101 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-05-10 15:49:39,159 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2026-05-10 15:49:39,160 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2026-05-10 15:49:39,161 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2026-05-10 15:49:39,161 : INFO : ball_device.bd_plunger : State: idle
+2026-05-10 15:49:39,162 : INFO : ball_device.bd_trough : BCH: Initial count: 0
+2026-05-10 15:49:39,162 : INFO : ball_device.bd_trough : State: idle
+2026-05-10 15:49:39,176 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-05-10 15:49:39,178 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-05-10 15:49:39,178 : INFO : BallController : Initial balls found: 0
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_5'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_right'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,179 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_4'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_6'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-05-10 15:49:39,180 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-05-10 15:49:39,181 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-05-10 15:49:39,189 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-05-10 15:49:39,190 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-05-10 15:49:39,190 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-05-10 15:49:39,190 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-05-10 15:49:39,190 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:49:39,191 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:49:39,191 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:49:39,191 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:49:39,191 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:49:39,192 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-05-10 15:49:39,192 : INFO : Mode.attract : Started. Priority: 10
+2026-05-10 15:49:39,192 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-05-10 15:49:39,192 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-05-10 15:49:39,193 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-05-10 15:49:39,194 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': None, 'item': 'title'}
+2026-05-10 15:49:39,195 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-05-10 15:49:39,224 : INFO : EventManager : Event: ======'slide_attract_created'====== Args={'_from_bcp': True}
+2026-05-10 15:49:39,225 : INFO : EventManager : Event: ======'slide__removed'====== Args={'_from_bcp': True}
+2026-05-10 15:49:39,225 : INFO : EventManager : Event: ======'slide_attract_active'====== Args={'original_context': 'attract', 'original_calling_context': 'mode_attract_started', 'priority': 10.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-05-10 15:50:05,033 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:05,034 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:05,034 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:05,034 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:05,034 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:05,034 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:05,034 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:05,035 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:05,035 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:05,149 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:06,649 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:06,650 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:06,650 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:06,650 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:06,650 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:06,650 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:06,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:06,651 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:06,651 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:06,651 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:06,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:06,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:06,651 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:06,652 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:06,749 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:07,499 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:07,499 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:07,500 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:07,500 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:07,500 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:07,500 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:07,500 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:07,500 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:07,500 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:07,500 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:07,500 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:07,500 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:07,501 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:07,501 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:07,616 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:09,199 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'title'}
+2026-05-10 15:50:09,200 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:09,200 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:09,200 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:09,200 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:09,200 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:09,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:09,201 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:09,201 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:09,299 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:10,199 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:10,199 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:10,199 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:10,199 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:10,200 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:10,200 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:10,200 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:10,200 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:10,200 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:10,350 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:11,016 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:11,016 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:11,016 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:11,017 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,017 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,017 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:11,017 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,017 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,018 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:11,018 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:11,182 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:11,435 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:11,435 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:11,436 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:11,436 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,436 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,436 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,436 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,436 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:11,436 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,436 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,436 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,437 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,437 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:11,437 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:11,551 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:11,966 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:11,966 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:11,966 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:11,966 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,966 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,966 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,966 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,966 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:11,966 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:11,966 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:11,966 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,967 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:11,967 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:11,967 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:12,049 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:12,432 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:12,432 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:12,432 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:12,432 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:12,432 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:12,432 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,432 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,433 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:12,433 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:12,433 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:12,433 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,433 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,433 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:12,433 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:12,566 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:12,832 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:12,833 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:12,833 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:12,833 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:12,833 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:12,833 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,833 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,833 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:12,833 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:12,834 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:12,834 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,834 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:12,834 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:12,835 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:12,967 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:13,301 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:13,301 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:13,301 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'credits'}
+2026-05-10 15:50:13,301 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:13,302 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:13,302 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,302 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,302 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:13,302 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:13,302 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:13,302 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,302 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,303 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:13,303 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:13,401 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:13,715 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:13,715 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:13,716 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:13,716 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,716 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:13,716 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:13,716 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:13,716 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:13,717 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:13,816 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:14,016 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:14,016 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:14,017 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'title'}
+2026-05-10 15:50:14,017 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,017 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,017 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:14,017 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,017 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,017 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,018 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:14,018 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:14,099 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:14,249 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:14,249 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:14,249 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'credits'}
+2026-05-10 15:50:14,249 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,250 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,250 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,250 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,250 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:14,250 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,250 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,250 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,250 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,250 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:14,251 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:14,316 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:14,450 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:14,450 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:14,450 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:14,450 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,450 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,450 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,450 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,450 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:14,450 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,450 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,451 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,451 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,451 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:14,452 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:14,501 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:14,634 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-05-10 15:50:14,634 : INFO : EventManager : Event: ======'s_flipper_left_active'====== Args={}
+2026-05-10 15:50:14,634 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'backwards', 'item': 'title'}
+2026-05-10 15:50:14,635 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,635 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,635 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,635 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,635 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:14,635 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:14,635 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:14,635 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,635 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:14,636 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:14,636 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:14,700 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-05-10 15:50:15,132 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:15,132 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:15,132 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:15,132 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,133 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,133 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,133 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,133 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:15,133 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,133 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,133 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,133 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,133 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:15,134 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:15,216 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:15,332 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:15,332 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:15,332 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:15,333 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,333 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,333 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,333 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,333 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:15,333 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,333 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,333 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,333 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,333 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:15,334 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:15,383 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:15,483 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:15,483 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:15,483 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:15,483 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,483 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,483 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,484 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,484 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:15,484 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,484 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,484 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,484 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,485 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:15,485 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:15,549 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:15,650 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:15,650 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:15,650 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:15,650 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,650 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,650 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,651 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:15,651 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,651 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,651 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,651 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:15,652 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:15,702 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:15,786 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-05-10 15:50:15,786 : INFO : EventManager : Event: ======'s_flipper_right_active'====== Args={}
+2026-05-10 15:50:15,786 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-05-10 15:50:15,787 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,787 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,787 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,787 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,787 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-05-10 15:50:15,787 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-05-10 15:50:15,787 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-05-10 15:50:15,787 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,787 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 0, 'ticks_remaining': 0}
+2026-05-10 15:50:15,788 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-05-10 15:50:15,789 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-05-10 15:50:15,851 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-05-10 15:50:18,739 : INFO : Machine : Shutting down...
+2026-05-10 15:50:18,739 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-05-10 15:50:18,743 : INFO : root : MPF run loop ended.

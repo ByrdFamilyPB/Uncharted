@@ -26,6 +26,8 @@ timers:
     tick_interval: 5s
     start_running: true
     control_events:
+      - event: timer_attract_carousel_timer_complete
+        action: restart
       - event: s_flipper_right_active
         action: restart
       - event: s_flipper_left_active
